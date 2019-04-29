@@ -1,6 +1,10 @@
 # MyCode
 This Project has been created for Learning to track my code.
 
+##Version Control
+
+Need to work on the function of version control with GIT projects
+
 ## Getting Started
 
 These instructions will get you copy of the project up and runnin on your local machine for development and testing purposes.
