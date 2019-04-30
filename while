@@ -1,0 +1,21 @@
+#!/user/bin/env python3
+
+while True:
+    print("Hello Again!")
+    x = input("Type 'q' to quit: ")
+    if x == 'q':
+        break
+
+print("The loop has finished")
+
+
+
+
+
+
+
+
+
+
+
+
