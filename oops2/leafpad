@@ -1,0 +1,8 @@
+#!/usr/bin/env pyython3
+
+# import your module source
+
+# pat = "'py"
+# path = """ location of file""" or use \\ in path such as "c:\\Alta3\\vzweb\\mycode\\"
+
+print(imported file from above.walker_file_ranger.listypy(pat, path))
